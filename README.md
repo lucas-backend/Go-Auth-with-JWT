@@ -1,6 +1,6 @@
 # Autentikasi JWT di Go
 
-## Konsep Besar
+## Konsep Dasar
 
 Secara umum integrasi ini dibagi menjadi tiga bagian utama.
 
